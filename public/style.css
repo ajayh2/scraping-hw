@@ -1,5 +1,4 @@
 body { 
-    background-image: url('reading.jpg');
     background-position: bottom; 
     background-repeat: no-repeat;
     background-size: cover;
@@ -27,7 +26,7 @@ textarea, input {
   margin-top: 15px;
 }
 .note-div {
-    background-color:cornflowerblue;
+    background-color:orange;
 }
 input {
   height: 36px;
@@ -38,7 +37,7 @@ textarea {
   font-size: 18px;
 }
 .summary {
-    background-color:cornflowerblue;
+    background-color:orange;
     margin-bottom: 12px;
     padding-left: 12px;
     padding-top: 12px;
@@ -46,7 +45,7 @@ textarea {
 }
 .save-article {
     float:right;
-    border-color: cornflowerblue;
+    border-color: orange;
     border-style: solid;
     border-width: 2px;
     font-family: Shrikhand, cursive;
@@ -73,7 +72,7 @@ textarea {
 }
 .jumbotron .background-image {
     height: 100%;
-    background-image: url("newspaper.jpg");
+    background-color: lightblue;
     background-size: cover;
 }
 .jumbotron .caption {
@@ -97,7 +96,7 @@ textarea {
     background: #4caf50;
 }
 .navbar-inverse .navbar-nav>li>button#scrape-new:active {
-    background: #e51c23;
+    background: green;
 }
 #scrape-new {
     cursor: pointer;
@@ -114,7 +113,7 @@ textarea {
     margin-left: -9px;
 }
 .panel-heading {
-    background-color: cornflowerblue;
+    background-color: orange;
 }
 p {
     margin-bottom: -11px;
@@ -122,7 +121,7 @@ p {
 .take-note {
     margin-left: 80%;
     margin-bottom: 8px;
-    border-color: cornflowerblue;
+    border-color: orange;
     border-style: solid;
     border-width: 2px;
     font-family: Shrikhand, cursive;
@@ -131,7 +130,7 @@ p {
 
 }
 .container-fluid {
-    background-color: cornflowerblue;
+    background-color: orange;
     display: inline;
     color: white;
 }
@@ -144,7 +143,7 @@ a {
     font-weight: 500;
 }
 #savenote {
-    border-color: cornflowerblue;
+    border-color: orange;
     border-style: solid;
     border-width: 2px;
     font-family: Shrikhand, cursive;
@@ -153,7 +152,7 @@ a {
 
 }
 #deletenote {
-    border-color: cornflowerblue;
+    border-color: orange;
     border-style: solid;
     border-width: 2px;
     font-family: Shrikhand, cursive;
