@@ -1,4 +1,5 @@
 body { 
+    background-image: url('newspaper.jpg');
     background-position: bottom; 
     background-repeat: no-repeat;
     background-size: cover;
@@ -26,7 +27,7 @@ textarea, input {
   margin-top: 15px;
 }
 .note-div {
-    background-color:orange;
+    background-color:cornflowerblue;
 }
 input {
   height: 36px;
@@ -37,7 +38,7 @@ textarea {
   font-size: 18px;
 }
 .summary {
-    background-color:orange;
+    background-color:cornflowerblue;
     margin-bottom: 12px;
     padding-left: 12px;
     padding-top: 12px;
@@ -45,7 +46,7 @@ textarea {
 }
 .save-article {
     float:right;
-    border-color: orange;
+    border-color: cornflowerblue;
     border-style: solid;
     border-width: 2px;
     font-family: Shrikhand, cursive;
@@ -72,7 +73,7 @@ textarea {
 }
 .jumbotron .background-image {
     height: 100%;
-    background-color: lightblue;
+    background-image: url("newspaper.jpg");
     background-size: cover;
 }
 .jumbotron .caption {
@@ -96,7 +97,7 @@ textarea {
     background: #4caf50;
 }
 .navbar-inverse .navbar-nav>li>button#scrape-new:active {
-    background: green;
+    background: #e51c23;
 }
 #scrape-new {
     cursor: pointer;
@@ -113,7 +114,7 @@ textarea {
     margin-left: -9px;
 }
 .panel-heading {
-    background-color: orange;
+    background-color: cornflowerblue;
 }
 p {
     margin-bottom: -11px;
@@ -121,16 +122,16 @@ p {
 .take-note {
     margin-left: 80%;
     margin-bottom: 8px;
-    border-color: orange;
+    border-color: cornflowerblue;
     border-style: solid;
     border-width: 2px;
     font-family: Shrikhand, cursive;
     border-radius: 8px;
-    background-color: darkorange;
+    background-color: lightskyblue;
 
 }
 .container-fluid {
-    background-color: orange;
+    background-color: cornflowerblue;
     display: inline;
     color: white;
 }
@@ -143,7 +144,7 @@ a {
     font-weight: 500;
 }
 #savenote {
-    border-color: orange;
+    border-color: cornflowerblue;
     border-style: solid;
     border-width: 2px;
     font-family: Shrikhand, cursive;
@@ -152,11 +153,11 @@ a {
 
 }
 #deletenote {
-    border-color: orange;
+    border-color: cornflowerblue;
     border-style: solid;
     border-width: 2px;
     font-family: Shrikhand, cursive;
     border-radius: 8px;
-    background-color: darkorange;
+    background-color: lightskyblue;
 
 }
